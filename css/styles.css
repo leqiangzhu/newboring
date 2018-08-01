@@ -20,3 +20,10 @@ img.intro{
   margin-right: auto;
   width: 50%;
 }
+
+.intro{
+  color: red;
+  text-align: center;
+  font-size: 30px;
+  font-style: italic;
+}
