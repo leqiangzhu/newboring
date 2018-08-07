@@ -27,3 +27,11 @@ img.intro{
   font-size: 30px;
   font-style: italic;
 }
+
+.border{
+  border: 2px solid black;
+}
+
+.highlight{
+  background-color: yellow;
+}
